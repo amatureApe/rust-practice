@@ -1,0 +1,1 @@
+/Users/dariantaban/Documents/coding/projects/rust_practice/cli/target/debug/cli: /Users/dariantaban/Documents/coding/projects/rust_practice/cli/src/find_and_replace.rs /Users/dariantaban/Documents/coding/projects/rust_practice/cli/src/main.rs
